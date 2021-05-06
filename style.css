@@ -100,7 +100,28 @@ font-size: 15px;
 padding: 10%;
 }
 
+.line1 {
+/*  position: absolute;
+  left: 64%;  
+  top: 82%;
+  z-index: 100;*/
+  display: none;
+}
+.line2 {
+/*  position: absolute;
+ text-align: center;
+  top: 83.5%;
+  z-index: 100;*/
+  display: none;
+}
 
+.line3 {
+/*  position: absolute;
+  left: 30%;
+  top: 82%;
+  z-index: 100;*/
+  display: none;
+}
 
 
 @media only screen and (min-width: 800px) {
